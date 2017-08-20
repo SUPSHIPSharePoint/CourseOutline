@@ -1,4 +1,4 @@
-﻿#Introduction to SharePoint 2013 for End Users
+﻿# Introduction to SharePoint 2013 for End Users
 
 **COURSE NUMBER:** SHPT-330
 
