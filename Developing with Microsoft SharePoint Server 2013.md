@@ -1,6 +1,7 @@
-**Developing with Microsoft SharePoint Server 2013**
+﻿# Developing with Microsoft SharePoint Server 2013
 
-**COURSE NUMBER: **Custom
+**COURSE NUMBER:** Custom
+
 **DURATION:** 2 Days
 
 This course teaches students the core skills that are common to almost all SharePoint development activities. Attendees work with the server-side and client-side object models, develop and deploy features, solutions, and apps, and manage identity and permissions. Students also query and update list data, manage taxonomy, use workflow to manage business processes, and customize the user interface.

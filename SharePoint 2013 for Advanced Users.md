@@ -1,6 +1,7 @@
-**SharePoint 2013 for Advanced Users**
+﻿# SharePoint 2013 for Advanced Users
 
-**COURSE NUMBER: **SHPT-335
+**COURSE NUMBER:** SHPT-335
+
 **DURATION:** 3 Days
 
 Accelebrate's SharePoint 2013 for Advanced Users training course teaches attendees how to use the advanced features of SharePoint 2013 to achieve maximum productivity in team collaboration. Students leave training motivated to use SharePoint 2013 to its fullest potential.
