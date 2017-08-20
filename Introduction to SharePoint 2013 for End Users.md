@@ -1,6 +1,7 @@
-**Introduction to SharePoint 2013 for End Users**
+﻿#Introduction to SharePoint 2013 for End Users
 
-**COURSE NUMBER: **SHPT-330
+**COURSE NUMBER:** SHPT-330
+
 **DURATION:** 2 Days
 
 Accelebrate's SharePoint 2013 End User training course teaches attendees how to use and achieve maximum productivity with SharePoint 2013. Students leave training motivated to use SharePoint 2013 in place of older approaches (shared folders, emailing documents back and forth, etc.).
